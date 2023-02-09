@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aiman02444
 - 👀 I’m interested in finance engineering, industirial management engineering, and bahasa Indonesia.
-- 🌱 I’m currently learning programing, data analytics.
+- 🌱 I’m currently studying about data science, data analytics, especially finance section. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
